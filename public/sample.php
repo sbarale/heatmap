@@ -107,7 +107,6 @@ if (isset($_GET['var'])) {
 
 <body>
 <?php include('heatmap/runner.php'); ?>
-<div id="heatmapContainer"></div>
 <div id="container">
 	<div id="header">
 		<div class="gridContainer">

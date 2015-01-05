@@ -38,5 +38,5 @@ window.onload = function () {
 		});
 		console.log({x: x, y: y, value: 1});
 	};
-	$('#heatmapContainer').hide();
+	//$('#heatmapContainer').hide();
 };
