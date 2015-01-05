@@ -45,9 +45,10 @@ There's no need to do anything for tracking to happen. Just point the browser to
 - Visualization:
 Point your browser to the URL and pass two parameters in the URL:
 
+```
 action=view
 token=a7aa3875fc4422ca78f7b4216205b9a5
-
+```
 
 It would look like this:
 
@@ -58,8 +59,10 @@ http://yoursite.com/yourpage.php?action=view&token=a7aa3875fc4422ca78f7b4216205b
 - Database Reset:
 Point your browser to the URL and pass two parameters in the URL:
 
+```
 action=reset
 token=a7aa3875fc4422ca78f7b4216205b9a5
+```
 
 It would look like this:
 
