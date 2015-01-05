@@ -17,8 +17,9 @@ Instalation:
 1) Place the contents of the heatmap folder (and the folder itself) in your site's root.
 2) Right after the body tag, place this:
 
+```
 <?php include("heatmap/runner.php"); ?>
-
+```
 
 3) That's it!
 
