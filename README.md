@@ -75,5 +75,7 @@ Sebastian Barale - 2015.
 
 
 ====================================================================================
+```
 (*)  The token can be changed in the /heatmap/includes/config.php file.
 (**) JS files are minified with uglify
+```
