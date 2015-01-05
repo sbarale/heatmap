@@ -3,11 +3,12 @@ Requirements:
 
 Folder structure must be like this:
 
+```
 T
 |/data
 |/public/<your website's root>
 |
-
+```
 ** Make sure /data is writtable by the user the webserver is running under (www-data, etc)
 
 Instalation:
