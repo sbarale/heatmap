@@ -14,14 +14,14 @@ T
 Instalation:
 -----------
 
-1) Place the contents of the heatmap folder (and the folder itself) in your site's root.
-2) Right after the body tag, place this:
+- 1) Place the contents of the heatmap folder (and the folder itself) in your site's root.
+- 2) Right after the body tag, place this:
 
 ```
 <?php include("heatmap/runner.php"); ?>
 ```
 
-3) That's it!
+- 3) That's it!
 
 The app will install the necessary JS files as well as wrap everything in a div for tracking purposes.
 I couldn't think of an easier way to do this.
