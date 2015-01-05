@@ -52,7 +52,6 @@ It would look like this:
 http://yoursite.com/yourpage.php?action=view&token=a7aa3875fc4422ca78f7b4216205b9a5
 
 
-** The token can be changed in the /heatmap/includes/config.php file.
 
 - Database Reset:
 Point your browser to the URL and pass two parameters in the URL:
@@ -72,3 +71,7 @@ Check the 'sample.php' file (duh!)
 
 Sebastian Barale - 2015.
 
+
+====================================================================================
+(*)  The token can be changed in the /heatmap/includes/config.php file.
+(**) JS files are minified with uglify
